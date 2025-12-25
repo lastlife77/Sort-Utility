@@ -75,7 +75,7 @@ sort -nrk=2
 
 # Тесты
 
-- [Юнит-тесты](./internal/sort_test.go)
+- [Юнит-тесты](./internal/sortutil/sort_test.go)
 - [Интеграционные-тесты](./cmd/sort_test.go)
 
 Тесты не покрывают все случаи, написаны для демонстрации.

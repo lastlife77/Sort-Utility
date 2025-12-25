@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	sort "github.com/lastlife77/sort/sortutil"
+	sort "github.com/lastlife77/sort/internal/sortutil"
 	"github.com/spf13/cobra"
 )
 
