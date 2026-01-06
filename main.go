@@ -5,7 +5,7 @@ package main
 import (
 	"log"
 
-	"github.com/lastlife77/sort/cmd"
+	"github.com/lastlife77/Sort-Utility/cmd"
 )
 
 func main() {

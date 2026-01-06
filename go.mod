@@ -1,4 +1,4 @@
-module github.com/lastlife77/sort
+module github.com/lastlife77/Sort-Utility
 
 go 1.24.4
 
